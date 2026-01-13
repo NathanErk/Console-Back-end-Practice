@@ -24,4 +24,5 @@ This is a small practice project for **beginner C# developers**.
 3. Run the program (Ctrl + F5)
 
 Feel free to explore, modify, and learn from the code 🙂
+Note: Change the cs Program's name to "Program" or in the Code you might need to reframe it to "class [Whatever name]" to make it work.
 
