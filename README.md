@@ -4,11 +4,24 @@ any user or Developer can check it out, use it for their own etc.
 Although its messy, not organized, And very very amatuer. I think it will help a bunch of new Beginner Devs such as me learn Console,WriteLine(); functions.
 Q/A:
 
-1. What Language is this code written in?
-- This Code is entirely made in C#
-2. What application is this Code made in?
-- Well it doesn't necessarily matter, in most but Visual Studio was used in this code creation.
-3. What is the Target Audience?
-- Beginner C# Programmers and Users who are naturally confused on how Console.WriteLine() and related functions work.
+# C# Console.WriteLine Practice Project
 
-You might need extra outside help to get an extra better understanding in this Code, because there is no comments inside it.
+This is a small practice project for **beginner C# developers**.
+
+## What this project covers
+- Console.WriteLine() usage
+- Changing console text colors
+- Basic console formatting
+- Simple program structure
+
+## Who is this for?
+- Beginners learning C#
+- Anyone new to console applications
+
+## How to run
+1. Clone the repository
+2. Open the project in Visual Studio
+3. Run the program (Ctrl + F5)
+
+Feel free to explore, modify, and learn from the code 🙂
+
